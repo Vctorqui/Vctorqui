@@ -13,10 +13,10 @@
 
 
 ### 😀 More about me...  
-<p>I am a Freelance Web Developer based in Venezuela who loves to learn new things, work with particular startups and collaborate with talented people around the world building websites and applications with a wide range of technologies.</p>
+<p>I am a Frontend Web Developer based in Venezuela who loves to learn new things, work with particular startups and collaborate with talented people around the world building websites and applications with a wide range of technologies.</p>
 <ul>
   <li>💻 More than one year of experience as a frontend developer</li>
-  <li>👨🏻‍💻 I'm currently work as a Freelancer</li>
+  <li>👨🏻‍💻 I'm currently work as a Jr. Frontend Developer</li>
   <li>🌱 I’m currently learning and practicing more to improve as a front-end developer.</li>
 </ul>
 
