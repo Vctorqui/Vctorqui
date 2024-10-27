@@ -23,8 +23,10 @@
 ```javascript
 const vic = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [ReactJs, Vite, Styled-Components, MaterialUI, NextJs],
+  languages: [Javascript, Typescript, HTML, CSS],
+  framewoks_and_libraries: [ReactJs, NextJS, Astro, Material UI, Tailwind CSS, Bootstrap],
+   tools: [Vite, Sass, Git, GitHub, GitLab, Slack, Jira],
+   databse: [Firebase, MongoDB]
 }
 ```
 
