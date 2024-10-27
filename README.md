@@ -2,9 +2,9 @@
 <p><em>Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<p align="center" width="300">
+<!--[<p align="center" width="300">
    <img align="right" width="200" src="https://media.licdn.com/dms/image/D4E03AQECS2ISyFHALQ/profile-displayphoto-shrink_800_800/0/1714664069027?e=1722470400&v=beta&t=0MEwteMFxAO6AAUnqhzcwidN_Jei-5nsc86GpbWMm9s" />
-</p>
+</p>]-->
 
 
 [![Linkedin: VictorQ ](https://img.shields.io/badge/-victorqui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-quiñones-a41084249//)](https://www.linkedin.com/in/victor-quiñones-a41084249/)
@@ -25,8 +25,8 @@ const vic = {
   pronouns: "he" | "him",
   languages: [Javascript, Typescript, HTML, CSS],
   framewoks_and_libraries: [ReactJs, NextJS, Astro, Material UI, Tailwind CSS, Bootstrap],
-   tools: [Vite, Sass, Git, GitHub, GitLab, Slack, Jira],
-   databse: [Firebase, MongoDB]
+  tools: [Vite, Sass, Git, GitHub, GitLab, Slack, Jira],
+  databse: [Firebase, MongoDB]
 }
 ```
 
