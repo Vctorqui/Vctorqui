@@ -10,7 +10,7 @@
 [![Linkedin: VictorQ ](https://img.shields.io/badge/-victorqui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-quiñones-a41084249//)](https://www.linkedin.com/in/victor-quiñones-a41084249/)
 [![GitHub VictorQ](https://img.shields.io/github/followers/victor?label=follow&style=social)](https://github.com/Vctorqui)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:victhorq716@gmail.com)
-[![Linkedin: VictorQ ](https://img.shields.io/badge/-Portfolio-1A1A19?style=flat&&link=victorqui-portfolio.netlify.app)](victorqui-portfolio.netlify.app)
+[![Linkedin: VictorQ ](https://img.shields.io/badge/-Portfolio-1A1A19?style=flat&&link=https://victorqui-portfolio.netlify.app/)](https://victorqui-portfolio.netlify.app/)
 
 
 
