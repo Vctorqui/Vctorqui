@@ -10,8 +10,8 @@
 [![Linkedin: VictorQ ](https://img.shields.io/badge/-victorqui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-quiñones-a41084249//)](https://www.linkedin.com/in/victor-quiñones-a41084249/)
 [![GitHub VictorQ](https://img.shields.io/github/followers/victor?label=follow&style=social)](https://github.com/Vctorqui)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:victhorq716@gmail.com)
-[![Porfolio Web]([https://img.shields.io/badge/:badgeContent?label=Porfolio%20web&link=https%3A%2F%2Fvictorqui-portfolio.netlify.app%2F](https://img.shields.io/badge/:badgeContent?style=flat-square&label=Porfolio%20web&labelColor=%23000&color=F3F3E0&link=https%3A%2F%2Fvictorqui-portfolio.netlify.app%2F
-))]
+[![Linkedin: VictorQ ](https://img.shields.io/badge/-Portfolio-1A1A19?style=flat&&link=victorqui-portfolio.netlify.app)](victorqui-portfolio.netlify.app)
+
 
 
 ### 😀 More about me...  
