@@ -17,7 +17,7 @@
 <ul>
   <li>💻 More than one year of experience as a frontend developer</li>
   <li>👨🏻‍💻 I'm currently work as a Frontend Developer</li>
-  <li>🌱 I’m currently learning and practicing more to improve as a front-end developer.</li>
+  <li>🌱 I'm constantly learning to keep up to date with the latest trends in frontend development. </li>
 </ul>
 
 ```javascript
