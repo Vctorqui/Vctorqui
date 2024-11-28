@@ -15,12 +15,14 @@
 
 
 ### 😀 More about me...  
-<p>I am a Frontend Web Developer based in Venezuela who loves to learn new things, work with particular startups and collaborate with talented people around the world building websites and applications with a wide range of technologies.</p>
+<p>HEY! I'm Victor Quiñones, FrontEnd Developer with experience in creating innovative and attractive user interfaces. Throughout my career, I have worked on a variety of projects both freelance and in the corporate environment.</p>
 <ul>
-  <li>💻 More than one year of experience as a frontend developer</li>
-  <li>👨🏻‍💻 I'm currently work as a Frontend Developer</li>
-  <li>🌱 I'm constantly learning to keep up to date with the latest trends in frontend development. </li>
+  <li>💻 2 years of experience as a Frontend developer.</li>
+  <li>🌱 Constantly learning to keep up to date with the latest trends in frontend development. </li>
 </ul>
+
+<p>Besides coding, I love watching anime movies, playing video games, and playing soccer. One of my favorite teams is Barcelona, but the truth is that I started to like soccer because of watching Messi. As I mentioned, I love video games, and my favorite game of all time is Uncharted. Sic parvis magna—Greatness from small beginnings. I always strive to live by that phrase in my life🚀</p>
+
 
 ```javascript
 const vic = {
