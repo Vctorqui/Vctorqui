@@ -21,7 +21,7 @@
   <li>🌱 Constantly learning to keep up to date with the latest trends in frontend development. </li>
 </ul>
 
-<p>Besides coding, I love watching anime movies, playing video games, and playing soccer. One of my favorite teams is Barcelona, but the truth is that I started to like soccer because of watching Messi. As I mentioned, I love video games, and my favorite game of all time is Uncharted. Sic parvis magna—Greatness from small beginnings. I always strive to live by that phrase in my life🚀</p>
+<p>Besides coding, I love watching anime, movies, playing videogames, and playing soccer. One of my favorite teams is Barcelona, but the truth is that I started to like soccer because of watching Messi. As I mentioned, I love videogames, and my favorite game of all time is Uncharted. Sic parvis magna—Greatness from small beginnings. I always strive to live by that phrase in my life🚀</p>
 
 
 ```javascript
