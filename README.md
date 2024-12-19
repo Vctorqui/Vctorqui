@@ -1,3 +1,5 @@
+
+<img src="https://github.com/user-attachments/assets/5b1be2a5-4465-404e-baca-f091863fc831" alt="Banner GIF" height="400" width='100%'>
 <h2> console.log('Hello World!') I'm Victor Quiñones! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p><em>Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
