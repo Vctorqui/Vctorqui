@@ -1,6 +1,6 @@
 
 ![banner-gif](https://github.com/user-attachments/assets/ea9382ea-6989-45a8-a3f8-d27953d7c020)
-## ```console.log('Hello 🌍!')``` I'm Victor Quiñones! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+## ```console.log('Hello 🌍!')```<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <p><em>Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
