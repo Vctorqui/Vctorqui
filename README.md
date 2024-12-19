@@ -7,9 +7,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:victhorq716@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-1A1A19?style=flat&logo=web&logoColor=white)](https://victorqui-portfolio.netlify.app/)
 
-
-
-
 ---
 
 ### 😀 More about me...  
@@ -57,7 +54,6 @@
 #### **Databases**
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
 
 
 ### 💡 Random Dev Quote
