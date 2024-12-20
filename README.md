@@ -2,10 +2,7 @@
 <p><em><b>Front-end Developer</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: VictorQ](https://img.shields.io/badge/-victorqui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-quiñones-a41084249//)](https://www.linkedin.com/in/victor-quiñones-a41084249/)
-[![GitHub VictorQ](https://img.shields.io/github/followers/Vctorqui?label=follow&style=social)](https://github.com/Vctorqui)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:victhorq716@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-1A1A19?style=flat&logo=web&logoColor=white)](https://victorqui-portfolio.netlify.app/)
+<a href="https://www.linkedin.com/in/victorqui/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://victorqui-portfolio.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" alt="Portafolio"> </a> <a href="mailto:victor.quinones.ch@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a>
 
 ---
 
