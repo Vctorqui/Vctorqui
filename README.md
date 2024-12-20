@@ -10,18 +10,18 @@
 ---
 
 ### 😀 More about me...  
-<p>HEY! I'm Victor Quiñones, FrontEnd Developer with experience in creating innovative and attractive user interfaces. Throughout my career, I have worked on a variety of projects both freelance and in the corporate environment.</p>
+<p>HEY! <b>I'm Victor Quiñones</b>, FrontEnd Developer with experience in creating innovative and attractive user interfaces. Throughout my career, I have worked on a variety of projects both freelance and in the corporate environment.</p>
 <ul>
   <li>💻 2 years of experience as a Frontend developer.</li>
   <li>🌱 Constantly learning to keep up to date with the latest trends in frontend development. </li>
 </ul>
 
-<p>Besides coding, I love watching anime, movies, playing videogames, and playing soccer. One of my favorite teams is Barcelona, but the truth is that I started to like soccer because of watching Messi. As I mentioned, I love videogames, and my favorite game of all time is Uncharted. Sic parvis magna—Greatness from small beginnings. I always strive to live by that phrase in my life🚀</p>
+<p>Besides coding, I love watching anime, movies, playing videogames, and playing soccer. One of my favorite teams is Barcelona, but the truth is that I started to like soccer because of watching Messi. As I mentioned, I love videogames, and my favorite game of all time is Uncharted. <br/> <b>Sic parvis magna</b> —Greatness from small beginnings. I always strive to live by that phrase in my life🚀</p>
 
 ---
 
 ### 🚀 My GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vctorqui&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vctorqui&layout=compact&theme=dark)
 
 ---
 
@@ -58,7 +58,7 @@
 ---
 
 ### 💡 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
  <em>If you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
