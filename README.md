@@ -2,23 +2,20 @@
 <p><em><b>Front-end Developer</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<a href="https://www.linkedin.com/in/victorqui/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://victorqui-portfolio.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" alt="Portafolio"> </a> <a href="mailto:victor.quinones.ch@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.quinones.ch@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/victorqui)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vctorqui)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/victhorq)
 
 ---
-
-### 😀 More about me...  
-<p>HEY! <b>I'm Victor Quiñones</b>, FrontEnd Developer with experience in creating innovative and attractive user interfaces. Throughout my career, I have worked on a variety of projects both freelance and in the corporate environment.</p>
+### 👨🏻‍💻 Hey I'm Victor 
+FrontEnd Developer with experience in creating innovative and attractive user interfaces. Throughout my career, I have worked on a variety of projects both freelance and in the corporate environment.</p>
 <ul>
   <li>💻 2 years of experience as a Frontend developer.</li>
   <li>🌱 Constantly learning to keep up to date with the latest trends in frontend development. </li>
 </ul>
 
 <p>Besides coding, I love watching anime, movies, playing videogames, and playing soccer. One of my favorite teams is Barcelona, but the truth is that I started to like soccer because of watching Messi. As I mentioned, I love videogames, and my favorite game of all time is Uncharted. <br/> <b>Sic parvis magna</b> —Greatness from small beginnings. I always strive to live by that phrase in my life🚀</p>
-
----
-
-### 🚀 My GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vctorqui&layout=compact&theme=dark)
 
 ---
 
@@ -53,6 +50,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
+### 🚀 My GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vctorqui&layout=compact&theme=dark)
+---
 
 ### 💡 Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
@@ -60,4 +60,4 @@
 ---
  <em>If you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
- <em>- "Sic Parvis Magna"</em>
+ <b><em>- "Sic Parvis Magna"</em></b>
