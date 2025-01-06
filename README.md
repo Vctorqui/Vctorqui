@@ -6,6 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorqui/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vctorqui)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/victhorq)
+[![Portfolio Web](https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=Portfolio&logoColor=white)](https://victorqui-portfolio.netlify.app/)
 
 ---
 ### 👨🏻‍💻 Hey I'm Victor 
