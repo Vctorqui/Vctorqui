@@ -12,7 +12,7 @@
 ### 👨🏻‍💻 Hey I'm Victor 
 FrontEnd Developer with experience in creating innovative and attractive user interfaces. Throughout my career, I have worked on a variety of projects both freelance and in the corporate environment.</p>
 <ul>
-  <li>💻 2 years of experience as a Frontend developer.</li>
+  <li>💻 3 years of experience as a Frontend developer.</li>
   <li>🌱 Constantly learning to keep up to date with the latest trends in frontend development. </li>
 </ul>
 
