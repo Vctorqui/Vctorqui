@@ -14,7 +14,6 @@
 
 🖥️ 3+ years building UI with modern tech  
 🎯 Always learning cutting-edge frontend trends.  
-🌍 Based in [your location, optional].  
 ⚡ Fun fact: My favorite game is **Uncharted** – "Sic parvis magna" inspires me daily!
 ⚽ Soccer fan (Visca Barça! Thanks Messi 😁)  
 🎮 Gamer, anime enthusiast, and movie buff.
