@@ -1,5 +1,6 @@
 ### ```console.log('Hello 🌍!')```<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-<p><em><b>Front-end Developer</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
+**Fullstack developer specializing in Frontend** | Passionate about interactive, user-friendly web experiences. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.quinones.ch@gmail.com)
@@ -9,14 +10,14 @@
 [![Portfolio Web](https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=Portfolio&logoColor=white)](https://victorqui-portfolio.netlify.app/)
 
 ---
-### 👨🏻‍💻 Hey I'm Victor 
-FrontEnd Developer with experience in creating innovative and attractive user interfaces. Throughout my career, I have worked on a variety of projects both freelance and in the corporate environment.</p>
-<ul>
-  <li>💻 3 years of experience as a Frontend developer.</li>
-  <li>🌱 Constantly learning to keep up to date with the latest trends in frontend development. </li>
-</ul>
+### 👨🏻‍💻 Hey I'm Victor
 
-<p>Besides coding, I love watching anime, movies, playing videogames, and playing soccer. One of my favorite teams is Barcelona, but the truth is that I started to like soccer because of watching Messi. As I mentioned, I love videogames, and my favorite game of all time is Uncharted. <br/> <b>Sic parvis magna</b> —Greatness from small beginnings. I always strive to live by that phrase in my life🚀</p>
+🖥️ 3+ years building UI with modern tech  
+🎯 Always learning cutting-edge frontend trends.  
+🌍 Based in [your location, optional].  
+⚡ Fun fact: My favorite game is **Uncharted** – "Sic parvis magna" inspires me daily!
+⚽ Soccer fan (Visca Barça! Thanks Messi 😁)  
+🎮 Gamer, anime enthusiast, and movie buff.
 
 ---
 
