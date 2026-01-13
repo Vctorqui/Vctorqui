@@ -1,7 +1,6 @@
 ### ```console.log('Hello 🌍!')```<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 **Fullstack developer specializing in Frontend** | Passionate about interactive, user-friendly web experiences. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.quinones.ch@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorqui/)
@@ -14,7 +13,7 @@
 
 🖥️ 3+ years building UI with modern tech  
 🎯 Always learning cutting-edge frontend trends.  
-⚡ Fun fact: My favorite game is **Uncharted** – "Sic parvis magna" inspires me daily!
+⚡ Fun fact: My favorite game is **Uncharted** – "Sic parvis magna" inspires me daily!  
 ⚽ Soccer fan (Visca Barça! Thanks Messi 😁)  
 🎮 Gamer, anime enthusiast, and movie buff.
 
@@ -46,10 +45,12 @@
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 #### **Databases**
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 ---
 ### 🚀 My GitHub Stats
