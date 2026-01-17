@@ -54,7 +54,7 @@
 
 ---
 ### 🚀 My GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vctorqui&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Vctorqui&layout=compact&theme=dark)
 ---
 
 ### 💡 Random Dev Quote
