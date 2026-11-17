@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-label="Victor Quiñones, Frontend Software Developer. Animated pixel-art mountain skyline at dusk, with a terminal window.">
+<defs>
+ <linearGradient id="sky" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#151d37"/><stop offset=".64" stop-color="#405877"/><stop offset="1" stop-color="#9d9f96"/></linearGradient>
+ <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" fill="none" stroke="#fff" stroke-opacity=".035" stroke-width="1"/></pattern>
+ <style>
+  .cloud1{animation:drift 34s ease-in-out infinite alternate}.cloud2{animation:drift2 46s ease-in-out infinite alternate}
+  .stars{animation:twinkle 3s ease-in-out infinite alternate}.cursor{animation:blink 1s steps(1) infinite}
+  .bird{animation:bird 5s ease-in-out infinite alternate}
+  @keyframes drift{to{transform:translateX(80px)}}@keyframes drift2{to{transform:translateX(-95px)}}
+  @keyframes twinkle{to{opacity:.25}}@keyframes blink{50%{opacity:0}}@keyframes bird{to{transform:translate(16px,-6px)}}
+  .mono{font-family:'Courier New',monospace}.pixel{shape-rendering:crispEdges}
+ </style>
+</defs>
+<rect width="1200" height="440" fill="url(#sky)"/>
+<rect width="1200" height="440" fill="url(#grid)"/>
+<g class="stars" fill="#e9ebd1"><rect x="80" y="45" width="3" height="3"/><rect x="190" y="92" width="2" height="2"/><rect x="380" y="31" width="3" height="3"/><rect x="810" y="67" width="3" height="3"/><rect x="990" y="44" width="3" height="3"/><rect x="1120" y="108" width="2" height="2"/></g>
+<circle cx="1015" cy="97" r="43" fill="#f7e7b0"/><circle cx="1030" cy="87" r="42" fill="#151d37" opacity=".16"/>
+<g class="cloud1 pixel" fill="#b7c0b7" opacity=".43"><rect x="880" y="150" width="140" height="18"/><rect x="902" y="136" width="80" height="16"/><rect x="920" y="124" width="43" height="13"/></g>
+<g class="cloud2" fill="#d4d5bf" opacity=".34"><rect x="115" y="107" width="155" height="18"/><rect x="145" y="92" width="100" height="16"/><rect x="169" y="78" width="50" height="15"/></g>
+<path d="M0 298L75 250 137 276 230 205 324 283 440 220 548 287 645 228 766 296 875 225 967 288 1080 235 1200 300V440H0Z" fill="#526e78"/>
+<path d="M0 331L130 279 210 316 360 254 481 332 612 270 727 321 840 264 968 334 1090 281 1200 322V440H0Z" fill="#334c5e"/>
+<path d="M0 358L90 320 165 346 272 301 404 360 526 314 646 352 751 303 852 349 1020 294 1200 360V440H0Z" fill="#1e3548"/>
+<g fill="#172c36" class="pixel">
+ <rect x="0" y="358" width="1200" height="82"/><rect x="65" y="318" width="60" height="72"/><rect x="82" y="298" width="29" height="24"/><rect x="139" y="337" width="52" height="55"/><rect x="204" y="305" width="58" height="90"/><rect x="277" y="335" width="44" height="55"/><rect x="850" y="334" width="61" height="75"/><rect x="920" y="309" width="72" height="101"/><rect x="1004" y="335" width="50" height="55"/><rect x="1065" y="300" width="66" height="105"/><rect x="1147" y="333" width="53" height="71"/>
+</g>
+<g fill="#d8b47a" opacity=".6" class="pixel"><rect x="77" y="336" width="7" height="9"/><rect x="100" y="336" width="7" height="9"/><rect x="216" y="321" width="8" height="11"/><rect x="240" y="341" width="8" height="11"/><rect x="932" y="328" width="8" height="11"/><rect x="963" y="355" width="8" height="11"/><rect x="1080" y="322" width="8" height="11"/><rect x="1105" y="346" width="8" height="11"/></g>
+<g transform="translate(1130 279)" class="pixel"><rect x="29" y="68" width="10" height="70" fill="#1c292a"/><path d="M34 0L0 59H18L2 79H25L8 98H59L44 79H65L49 59H69Z" fill="#203e3d"/><path d="M34 12L17 51H30L15 72H34Z" fill="#3f6256"/></g>
+<g class="bird" stroke="#1e3548" stroke-width="3" stroke-linecap="square" fill="none"><path d="M755 130l9 5 9-5 M782 119l8 4 8-4"/></g>
+<rect x="40" y="54" width="730" height="284" rx="10" fill="#101c2c" opacity=".92" stroke="#a5baa9" stroke-opacity=".45" stroke-width="2"/>
+<path d="M50 54h710a10 10 0 0 1 10 10v31H40V64a10 10 0 0 1 10-10" fill="#1c3042"/>
+<circle cx="67" cy="75" r="6" fill="#e7a19b"/><circle cx="89" cy="75" r="6" fill="#eac38b"/><circle cx="111" cy="75" r="6" fill="#a8cbb4"/>
+<text x="405" y="81" fill="#c7d3d1" font-family="Courier New,monospace" font-size="15" text-anchor="middle">victor@mac: ~/portfolio</text>
+<text x="76" y="130" class="mono" font-size="18" fill="#a7dfc2">➜ <tspan fill="#d4e2e6">~</tspan> <tspan fill="#f4d498">whoami</tspan></text>
+<text x="76" y="181" class="mono" font-size="36" font-weight="bold" fill="#f6f4e9">Victor Quiñones</text>
+<text x="76" y="220" class="mono" font-size="19" fill="#a7dfc2">Software Developer</text>
+<text x="76" y="247" class="mono" font-size="19" fill="#d6dfdc">Specializing in Frontend</text>
+<path d="M76 269H723" stroke="#6b8b8c" stroke-dasharray="5 7" opacity=".55"/>
+<text x="76" y="302" class="mono" font-size="15" fill="#ced9d8">React  ·  Next.js  ·  TypeScript  ·  UI Engineering</text>
+<rect x="702" y="285" width="11" height="20" fill="#a7dfc2" class="cursor"/>
+<text x="41" y="408" class="mono" font-size="14" fill="#e2e8df">[ WORLD 01 / VICTORQUI.DEV ]</text>
+<text x="1190" y="408" text-anchor="end" class="mono" font-size="14" fill="#e2e8df">SIC PARVIS MAGNA  ✦</text>
+</svg>
